@@ -1,0 +1,49 @@
+header h2 {
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+  background-color: #f7f7f7;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.shipping {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-style: oblique;
+  color: #605e5e;
+}
+
+article a:link,
+article a:visited {
+  color: black;
+}
+
+article a:hover,
+article a:active {
+  text-decoration: none;
+}
+
+.title {
+  text-transform: uppercase;
+}
+
+.list {
+  list-style: square;
+}
+
+.cart {
+  background-color: black;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.cart:hover {
+  color: #000;
+  background-color: #fff;
+}
